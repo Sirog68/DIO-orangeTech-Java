@@ -19,7 +19,10 @@ public class sobreMim {
         System.out.println("Digite sua altura: ");
         double height = scanner.nextDouble();
 
+        
+
         //imprimindo dados
         System.out.println("Seu nome é: " + name + " " + lastName + " e tem " + age + " anos e pesa " + height + " quilos.");
+        scanner.close();
     }
 }
