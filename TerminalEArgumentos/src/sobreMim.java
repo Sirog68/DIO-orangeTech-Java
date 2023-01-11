@@ -10,10 +10,10 @@ public class sobreMim {
         System.out.println("Digite seu nome: ");
         String name = scanner.next();
 
-        System.out.println("Sigite seu sobrenome: ");
+        System.out.println("Digite seu sobrenome: ");
         String lastName = scanner.next();
 
-        System.out.println("Digite su idade : ");
+        System.out.println("Digite sua idade : ");
         int age = scanner.nextInt();
 
         System.out.println("Digite sua altura: ");
