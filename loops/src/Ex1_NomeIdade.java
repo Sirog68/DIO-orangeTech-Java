@@ -14,8 +14,6 @@ public class Ex1_NomeIdade {
         Scanner scan = new Scanner(System.in);
         
         String nome;
-        int idade;
-        
         while(true){
             //Entrada do nome
             System.out.println("Nome : ");
@@ -23,7 +21,6 @@ public class Ex1_NomeIdade {
             if (nome.equals("0")) break;
             //Entrada idade
             System.out.println("Idade: ");
-            idade = scan.nextInt();
             
         }
         scan.close();
