@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-/* Faça um programa que calcule o fatoria de um numero interio fornecido
+/* Faça um programa que calcule o fatorial de um numero inteiro fornecido
  * pelo usuário.
  * 
  * ex.: 5!= 120 (5 * 4 * 3 * 2 * 1)
